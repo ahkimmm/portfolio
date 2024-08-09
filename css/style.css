@@ -467,7 +467,7 @@ a.active {
 
 #about {
     padding: 100px 0;
-    background: url(../img/bg2.jpg)no-repeat center;
+    background: url(../img/bg2.jpg) repeat center;
     background-attachment: fixed;
     border-bottom: 2px solid #000;
 }
@@ -674,7 +674,7 @@ a.active {
 #skills{
 	/* background:; */
 	padding:50px;
-    background:url(../img/bg7.jpg) no-repeat top center;
+    background:url(../img/bg7.jpg) repeat top center;
 }
 .skill-box {
   width: 80%;
